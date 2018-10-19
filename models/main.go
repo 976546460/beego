@@ -15,7 +15,7 @@ func init() {
 			//		beego.AppConfig.String("mysqlpass")+"@/"+
 			//		beego.AppConfig.String("mysqldb")+"?charset=utf8")
 
-		"root:root@/test?charset=utf8")
+		"root:976546460@tcp(149.28.239.86:3306)/test?charset=utf8")
 }
 
 func main() {
